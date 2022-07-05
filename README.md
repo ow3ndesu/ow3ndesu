@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rhowen Francisco Enguerra</h1>
 <h3 align="center">I'm an Information Technology Fresh Graduate interested in Web Development from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ow3ndesu&label=Profile%20views&color=0e75b6&style=flat" alt="ow3ndesu" /> </p>
+- 🌱 I’m currently learning **Laravel Framework**
 
-<p align="left"> <a href="https://twitter.com/ow3ndesu" target="blank"><img src="https://img.shields.io/twitter/follow/ow3ndesu?logo=twitter&style=for-the-badge" alt="ow3ndesu" /></a> </p>
+- 💬 Ask me about **Laravel. (so that I could practice!)**
+
+- 📫 How to reach me **enguerraowen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
