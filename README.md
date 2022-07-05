@@ -3,9 +3,15 @@
 
 - 🌱 I’m currently learning **Laravel Framework**
 
+- 👨‍💻 All of my projects are available at [https://enguerrarhowen.netlify.app/](https://enguerrarhowen.netlify.app/)
+
 - 💬 Ask me about **Laravel. (so that I could practice!)**
 
 - 📫 How to reach me **enguerraowen@gmail.com**
+
+- 📄 Know about my experiences [https://enguerrarhowen.netlify.app/rhowenfranciscoenguerra-cv.pdf](https://enguerrarhowen.netlify.app/rhowenfranciscoenguerra-cv.pdf)
+
+- ⚡ Fun fact **If you ever feel exhausted coding, grab somethin' and let's do some physical activity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
